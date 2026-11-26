@@ -4,6 +4,8 @@
 
 **作者：观复居士 ·商务合作：13148728713；微信号：guanfujs**
 
+[![SkillHub](https://img.shields.io/badge/下载-SkillHub-orange)](https://www.skillhub.cn/skills/guanfu-tingke-pingke)
+
 **English**: Lesson observation and evaluation tool for teachers — turns scattered class notes into a structured three-column record (teaching stages / highlights / suggestions) plus a 150-word overall comment, with ready-to-use phrase banks (10 highlight phrases, 10 polite suggestion openers).
 
 ---
